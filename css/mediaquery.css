@@ -1,0 +1,12 @@
+body{
+    overflow: hidden;
+}
+
+.flexi {
+    display: flex;
+}
+
+#divConTitle{
+    margin-top: 5em !important;
+    height: 10em;
+}

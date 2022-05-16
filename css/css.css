@@ -1,0 +1,59 @@
+
+body {
+    background-color: rgb(34, 34, 34);
+}
+
+
+.s {
+    color: rgb(255, 255, 255);
+    background-color: rgb(27, 26, 26);
+    border-radius: 10px;
+    padding: 2.5em;
+}
+
+.fTitulos {
+    font-family: 'Federo', sans-serif;
+}
+
+.fNormal {
+    font-family: 'Cuprum', sans-serif;
+}
+
+.fSubtitulo {
+    font-family: 'Epilogue', sans-serif;
+}
+
+#cat1, #cat2, #cat3, #cat4 {
+
+    color:black;
+}
+#cat1:hover{
+    color: #864aff;
+}
+
+#cat2:hover{
+    color: #3d0099;
+} 
+
+#cat3:hover{
+    color: #1b6e00;
+} 
+
+#cat4:hover{
+    color: #006e66;
+} 
+
+.pp {
+    border-radius: 20px;
+}
+
+.detallitos {
+    font-size: smaller;
+    color: rgb(129, 129, 129) !important;
+    margin: 0;
+}
+
+.table {
+
+    background-color: aliceblue;
+}

@@ -1,0 +1,33 @@
+.tarjeta {
+    display: flex;
+    flex-direction: row !important;
+    align-items: center;
+}
+
+.navbar-nav {
+    width: 100%;
+    text-align: center;
+  }
+
+.navbar-nav > li {
+    float: none;
+    display: inline-block;
+  }
+
+  .pp {
+    width: 50%;
+  }
+
+  #minimalikes {
+    width: 12%;
+  }
+
+  .ppComent {
+    width: 20px;
+  }
+
+  .notirelchiki {
+    width: 32.5%;
+    margin-left: 5px;
+    margin-right: 5px;
+  }
